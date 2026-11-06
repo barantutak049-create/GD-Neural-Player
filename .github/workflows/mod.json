@@ -1,0 +1,13 @@
+{
+  "geode": "5.11.2",
+  "gd": {
+    "android": [
+      "2.2074"
+    ]
+  },
+  "id": "barantutak049.gdneuralplayer",
+  "name": "GD Neural Player",
+  "version": "1.0.0",
+  "developer": "Baran",
+  "description": "Geometry Dash için deneyimlerden öğrenen yapay zeka oyuncusu."
+}
